@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nirav Mendapara 👋</h1>
 
 <p align="center">
-  🎓 Master's Student in Web Engineering &emsp;|&emsp; 💻 Full-Stack Developer &emsp;|&emsp; ☁️ Cloud & AI Enthusiast  
+ 💻 Full-Stack Developer &emsp;|&emsp; ☁️ Cloud & AI Enthusiast  
 </p>
 
 <p align="center">
