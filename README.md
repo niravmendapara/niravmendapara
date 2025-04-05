@@ -8,7 +8,7 @@
   <a href="https://niravmendapara.com" target="_blank"><img src="https://img.shields.io/badge/Website-niravmendapara.com-blue?style=for-the-badge&logo=google-chrome"></a>
   <a href="mailto:niravmendapara786@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-niravmendapara786@gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/nirav-mendapara-17b9a8148" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Nirav%20Mendapara-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://niravmendapara.com/Nirav_Mendapara_CV_DE.pdf" target="_blank"><img src="https://img.shields.io/badge/Download%20CV-PDF-green?style=for-the-badge&logo=adobeacrobatreader"></a>
+  <a href="https://niravmendapara.com/wp-content/uploads/2025/03/Nirav_Mendapara_CV_DE.pdf" target="_blank"><img src="https://img.shields.io/badge/Download%20CV-PDF-green?style=for-the-badge&logo=adobeacrobatreader"></a>
 </p>
 
 ---
