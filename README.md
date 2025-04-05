@@ -1,57 +1,71 @@
-# 👋 Hi, I'm Nirav Mendapara
+<h1 align="center">Hi there, I'm Nirav Mendapara 👋</h1>
 
-🎓 ** 💻 Full-Stack Developer | 🌐 Cloud & AI Enthusiast
+<p align="center">
+  🎓 Master's Student in Web Engineering &emsp;|&emsp; 💻 Full-Stack Developer &emsp;|&emsp; ☁️ Cloud & AI Enthusiast  
+</p>
 
----
-
-## 🚀 About Me
-
-I'm a passionate full-stack web developer with a solid academic foundation in **Computer Engineering**, **Automotive Software Engineering**, and currently pursuing a **Master’s in Web Engineering** at Technische Universität Chemnitz, Germany.
-
-With hands-on experience at companies like **ONLINE UNITED GmbH**, **FARO Europe GmbH**, and **KMSoft**, I specialize in building scalable and secure web applications using modern technologies.
-
----
-
-## 🔧 Tech Stack
-
-- **Languages**: JavaScript, TypeScript, Python, PHP, C/C++
-- **Frontend**: React.js, Next.js
-- **Backend**: Node.js, Express, GraphQL
-- **Databases**: MongoDB, PostgreSQL, SQL
-- **Cloud & DevOps**: AWS (EC2, S3, SQS, Route 53), Azure Blob, Docker, CI/CD, Nginx
-- **Other Tools**: GitHub, Swagger, Postman, Jira, Confluence
+<p align="center">
+  <a href="https://niravmendapara.com" target="_blank"><img src="https://img.shields.io/badge/Website-niravmendapara.com-blue?style=for-the-badge&logo=google-chrome"></a>
+  <a href="mailto:niravmendapara786@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-niravmendapara786@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/nirav-mendapara-17b9a8148" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Nirav%20Mendapara-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://niravmendapara.com/Nirav_Mendapara_CV_DE.pdf" target="_blank"><img src="https://img.shields.io/badge/Download%20CV-PDF-green?style=for-the-badge&logo=adobeacrobatreader"></a>
+</p>
 
 ---
 
-## 📚 Projects
+## 👨‍💻 About Me
 
-- 🔁 **GUI to CUI Converter (Master Thesis)**  
-  Converted graphical interaction models into conversational UI using Node.js and JavaScript.
+I'm Nirav, a passionate full-stack developer with a background in **Computer Engineering** and two Master's degrees — one in **Automotive Software Engineering** and currently in **Web Engineering** at TU Chemnitz 🇩🇪.
 
-- 📄 **LLM Chat App (RAG)**  
-  Built a web app for querying PDFs using LLMs and vector search with FAISS and RAG techniques.
-
-- 📊 **Internal Tracker System**  
-  Centralized task/project management platform with real-time chat and payroll automation.
-
-- 🔥 **Fire Safety Awareness App**  
-  Designed for public education and coordination with government fire services.
+With professional experience across startups and corporations in Germany and India, I love building modern, performant web applications and scalable cloud systems.
 
 ---
 
-## 🌍 Languages
+## ⚙️ Tech Stack
 
-- 🇩🇪 German (B1)
-- 🇬🇧 English (Fluent)
-
----
-
-## 📫 Let's Connect
-
-- **Portfolio**: [niravmendapara.com](https://niravmendapara.com)
-- **LinkedIn**: [linkedin.com/in/nirav-mendapara-17b9a8148](https://www.linkedin.com/in/nirav-mendapara-17b9a8148)
-- **Email**: niravmendapara786@gmail.com
+- 💻 **Languages**: JavaScript, TypeScript, Python, PHP, C, C++
+- 🌐 **Frontend**: React.js, Next.js, HTML, CSS
+- 🛠 **Backend**: Node.js, Express.js, GraphQL
+- 🗄️ **Databases**: MongoDB, PostgreSQL, SQL
+- ☁️ **Cloud & DevOps**: AWS (EC2, S3, SQS, Route 53), Azure Blob, Docker, Nginx, CI/CD
+- 🧪 **Tools**: GitHub, Postman, Swagger UI, Jira, Confluence
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to check out my projects and connect!*
+## 📂 Featured Projects
+
+🚀 **GUI to CUI Converter (Master Thesis)**  
+↳ Research and development of converting graphical user interfaces into conversational UIs using JavaScript and Node.
+
+🧠 **LLM Chat App (RAG)**  
+↳ Web app enabling document-based querying using Large Language Models, FAISS for vector search, and RAG for accuracy.
+
+📊 **Internal Tracker System**  
+↳ Centralized project/task tracking system with integrated payroll & leave management.
+
+🔥 **Fire Safety Awareness App**  
+↳ Designed for government fire departments to bridge the gap between services and public awareness.
+
+---
+
+## 🗣️ Languages
+
+- 🇬🇧 English – Fluent  
+- 🇩🇪 German – B1 Intermediate  
+
+---
+
+## 📫 Reach Me
+
+- 🌍 Website: [niravmendapara.com](https://niravmendapara.com)
+- 📧 Email: [niravmendapara786@gmail.com](mailto:niravmendapara786@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/nirav-mendapara-17b9a8148](https://www.linkedin.com/in/nirav-mendapara-17b9a8148)
+- 📄 CV: [Download CV (PDF)](https://niravmendapara.com/wp-content/uploads/2025/03/Nirav_Mendapara_CV_DE.pdf)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=niravmendapara&style=flat-square&color=blue" alt="GitHub profile views" />
+</p>
+
+⭐️ *Thanks for stopping by! I'm always open to new opportunities, collaborations, or just tech talk – feel free to reach out!*
