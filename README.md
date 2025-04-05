@@ -50,8 +50,8 @@ With professional experience across startups and corporations in Germany and Ind
 
 ## 🗣️ Languages
 
-- 🇬🇧 English – Fluent  
-- 🇩🇪 German – B1 Intermediate  
+- English – Fluent  
+- German – B1 Intermediate  
 
 ---
 
